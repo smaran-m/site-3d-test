@@ -1,0 +1,16 @@
+{
+  "name": "site-3d-test",
+  "version": "1.0.0",
+  "description": "Testing three.js setup for a personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "three": "^0.156.1"
+  }
+}
